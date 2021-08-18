@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color: cornflowerblue;
+    -fx-background-radius: 0;
+    -fx-border-color: black;
+}
+
+.button:disabled {
+    -fx-opacity: 1;
+    -fx-background-color: lightskyblue;
+    -fx-background-radius: 0;
+    -fx-border-color: black;
+}
